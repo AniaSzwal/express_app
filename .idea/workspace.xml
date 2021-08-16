@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f0240b7-fb6e-4ece-8f49-f822a3f29d52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/express_app/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/express_app/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wGwlLPWZ82HJd3ENkFgBbxX2zR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anias\WebstormProjects\express_app\views" />
+      <recent name="C:\Users\anias\WebstormProjects\express_app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f0240b7-fb6e-4ece-8f49-f822a3f29d52" name="Default Changelist" comment="" />
+      <created>1628098388350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628098388350</updated>
+      <workItem from="1628098390780" duration="2042000" />
+      <workItem from="1628437991071" duration="597000" />
+      <workItem from="1628689312043" duration="1192000" />
+      <workItem from="1629129085974" duration="2538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="53" width="635" height="654" key="find.popup" timestamp="1628098969483">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="394" y="53" width="635" height="654" key="find.popup/0.0.1422.760@0.0.1422.760" timestamp="1628098969483" />
+  </component>
+</project>
