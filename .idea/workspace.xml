@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0240b7-fb6e-4ece-8f49-f822a3f29d52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/views/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/history.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/express_app/config/applicationhost.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/express_app/v16/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/forbidden.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/history.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/404.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,6 +46,8 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\anias\WebstormProjects\express_app\views" />
       <recent name="C:\Users\anias\WebstormProjects\express_app" />
+      <recent name="C:\Users\anias\WebstormProjects\express_app\views\user" />
+      <recent name="C:\Users\anias\WebstormProjects\express_app\public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +61,9 @@
       <workItem from="1628098390780" duration="2042000" />
       <workItem from="1628437991071" duration="597000" />
       <workItem from="1628689312043" duration="1192000" />
-      <workItem from="1629129085974" duration="2538000" />
+      <workItem from="1629129085974" duration="8292000" />
+      <workItem from="1629303645786" duration="1243000" />
+      <workItem from="1629306041715" duration="322000" />
     </task>
     <servers />
   </component>
@@ -67,6 +71,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="443" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629135851509">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="443" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1422.760@0.0.1422.760" timestamp="1629135851509" />
     <state x="394" y="53" width="635" height="654" key="find.popup" timestamp="1628098969483">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
