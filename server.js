@@ -7,7 +7,6 @@ function isUser() {
     return false;
 };
 
-app.use(express.static(path.join(__dirname, '/public')));
 
 app.use((req, res, next) => {
     res.show = (name) => {
@@ -16,10 +15,14 @@ app.use((req, res, next) => {
     next();
 });
 
+//app.use(express.static(path.join(__dirname, '/public'))); // - static - wez wszystko cokolwiek jest w folderze public i serwuj pliki statyczne na naszym serwerze
+
 app.use('/user', (req, res, next) => {
     if(isUser()) next();
     else res.show('forbidden.html');
 });
+
+app.use('/pomidor', express.static(path.join(__dirname, '/public')));
 
 app.get('/', (req, res) => {
     res.show('home.html');
